@@ -27,9 +27,11 @@ h3 {
 
 footer {
 	font-size: 20px;
-	text-align: center;
+	color: #000;
 	position: fixed;
-	bottom: 0;
+	bottom: 5%;
+	left: 50%;
+	transform: translate(-50%, 0);
 }
 
 footer a {
