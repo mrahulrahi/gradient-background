@@ -24,3 +24,14 @@ h3 {
     text-transform: none;
     letter-spacing: 0.01em;
 }
+
+footer {
+		font-size: 20px;
+		text-align: center;
+		position: fixed;
+		bottom: 0;
+	}
+	a {
+        color: rgba(0, 0, 0, .5);
+        text-decoration: none;
+	}
